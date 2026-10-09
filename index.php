@@ -8,6 +8,7 @@
 <body>
 	<div>
 		<p>Mi primer repositorio con git</p>
+		<p>Mi primer repositorio con git</p>
 	</div>
 </body>
 </html>
